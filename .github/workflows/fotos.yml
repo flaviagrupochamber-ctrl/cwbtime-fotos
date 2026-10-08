@@ -19,7 +19,7 @@ jobs:
         run: |
           import io, os, requests
           from PIL import Image
-          LIM = 345 * 1024
+          LIM = 340000
           H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
           erros = []
           for linha in open('fotos.txt', encoding='utf-8'):
@@ -27,7 +27,7 @@ jobs:
               if not linha or linha.startswith('#'):
                   continue
               destino, url = linha.split(None, 1)
-              if os.path.exists(destino):
+              if os.path.exists(destino) and os.path.getsize(destino) <= LIM:
                   continue
               try:
                   r = requests.get(url, headers=H, timeout=60)
@@ -54,7 +54,7 @@ jobs:
                   os.makedirs(os.path.dirname(destino) or '.', exist_ok=True)
                   open(destino, 'wb').write(buf.getvalue())
                   if buf.tell() > LIM:
-                      erros.append(f'{destino} ficou com {buf.tell() // 1024}KB (acima de 350KB)')
+                      erros.append(f'{destino} ficou com {buf.tell()} bytes (acima de 340000)')
                   print(f'OK {destino} q={q} {buf.tell() // 1024}KB')
               except Exception as e:
                   erros.append(f'{destino} {url} -> {e}')
