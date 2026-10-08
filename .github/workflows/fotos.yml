@@ -21,13 +21,17 @@ jobs:
           from PIL import Image
           LIM = 340000
           H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+          import json, glob
           erros = []
+          fontes = json.load(open('fontes.json')) if os.path.exists('fontes.json') else {}
+          lista = []
           for linha in open('fotos.txt', encoding='utf-8'):
               linha = linha.strip()
               if not linha or linha.startswith('#'):
                   continue
               destino, url = linha.split(None, 1)
-              if os.path.exists(destino) and os.path.getsize(destino) <= LIM:
+              lista.append(destino)
+              if os.path.exists(destino) and os.path.getsize(destino) <= LIM and fontes.get(destino) == url:
                   continue
               try:
                   r = requests.get(url, headers=H, timeout=60)
@@ -55,9 +59,16 @@ jobs:
                   open(destino, 'wb').write(buf.getvalue())
                   if buf.tell() > LIM:
                       erros.append(f'{destino} ficou com {buf.tell()} bytes (acima de 340000)')
+                  fontes[destino] = url
                   print(f'OK {destino} q={q} {buf.tell() // 1024}KB')
               except Exception as e:
                   erros.append(f'{destino} {url} -> {e}')
+          for pasta in {os.path.dirname(d) for d in lista}:
+              for f in glob.glob(os.path.join(pasta, '*.jpg')):
+                  if f not in lista:
+                      os.remove(f)
+                      fontes.pop(f, None)
+          json.dump(fontes, open('fontes.json', 'w'), indent=1, sort_keys=True)
           open('erros.txt', 'w', encoding='utf-8').write('\n'.join(erros))
           print('\n'.join(erros) or 'Sem erros')
       - name: Salvar no repositório
