@@ -1,0 +1,69 @@
+name: Tratar fotos
+on:
+  push:
+    paths: ['fotos.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow requests
+      - name: Baixar, redimensionar e comprimir
+        shell: python
+        run: |
+          import io, os, requests
+          from PIL import Image
+          LIM = 345 * 1024
+          H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+          erros = []
+          for linha in open('fotos.txt', encoding='utf-8'):
+              linha = linha.strip()
+              if not linha or linha.startswith('#'):
+                  continue
+              destino, url = linha.split(None, 1)
+              if os.path.exists(destino):
+                  continue
+              try:
+                  r = requests.get(url, headers=H, timeout=60)
+                  r.raise_for_status()
+                  im = Image.open(io.BytesIO(r.content))
+                  im.load()
+                  if im.mode in ('RGBA', 'LA', 'P'):
+                      im = im.convert('RGBA')
+                      fundo = Image.new('RGB', im.size, (255, 255, 255))
+                      fundo.paste(im, mask=im.split()[-1])
+                      im = fundo
+                  else:
+                      im = im.convert('RGB')
+                  im.thumbnail((1600, 1600), Image.LANCZOS)
+                  tela = Image.new('RGB', (1600, 1600), (255, 255, 255))
+                  tela.paste(im, ((1600 - im.width) // 2, (1600 - im.height) // 2))
+                  q = 92
+                  while True:
+                      buf = io.BytesIO()
+                      tela.save(buf, 'JPEG', quality=q, optimize=True, progressive=True)
+                      if buf.tell() <= LIM or q <= 20:
+                          break
+                      q -= 4
+                  os.makedirs(os.path.dirname(destino) or '.', exist_ok=True)
+                  open(destino, 'wb').write(buf.getvalue())
+                  if buf.tell() > LIM:
+                      erros.append(f'{destino} ficou com {buf.tell() // 1024}KB (acima de 350KB)')
+                  print(f'OK {destino} q={q} {buf.tell() // 1024}KB')
+              except Exception as e:
+                  erros.append(f'{destino} {url} -> {e}')
+          open('erros.txt', 'w', encoding='utf-8').write('\n'.join(erros))
+          print('\n'.join(erros) or 'Sem erros')
+      - name: Salvar no repositório
+        run: |
+          git config user.name "cwbtime-fotos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Fotos tratadas"
+          git push
