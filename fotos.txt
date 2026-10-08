@@ -8,3 +8,17 @@ GST-B1000D-1ADR/05.jpg https://www.casio.com/content/dam/casio/product-info/loca
 GST-B1000D-1ADR/06.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-1a/assets/GST-B1000D-1A_kv.jpg
 GST-B1000D-1ADR/07.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-1a/assets/GST-B1000D-1A_05.jpg
 GST-B1000D-1ADR/08.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-1a/assets/GST-B1000D-1A_04.jpg
+GST-B1000D-2ADR/01.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_front.jpg
+GST-B1000D-2ADR/02.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_02.jpg
+GST-B1000D-2ADR/03.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_03.jpg
+GST-B1000D-2ADR/04.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_N.png
+GST-B1000D-2ADR/05.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_theme.jpg
+GST-B1000D-2ADR/06.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_05.jpg
+GST-B1000D-2ADR/07.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-2a/assets/GST-B1000D-2A_04.jpg
+GST-B1000D-3ADR/01.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_front.jpg
+GST-B1000D-3ADR/02.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_02.jpg
+GST-B1000D-3ADR/03.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_03.jpg
+GST-B1000D-3ADR/04.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_N.png
+GST-B1000D-3ADR/05.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_05.jpg
+GST-B1000D-3ADR/06.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GS/GST/gst-b1000d-3a/assets/GST-B1000D-3A_04.jpg
+EFB-730D-2BVUDF/01.jpg https://www.casio.com/content/dam/casio/product-info/locales/pt/pt/timepiece/product/watch/E/EF/EFB/efb-730d-2bv/assets/EFB-730D-2BVU.png
