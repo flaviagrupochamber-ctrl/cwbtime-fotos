@@ -76,3 +76,10 @@ MBSS1550-D1SX/01-v2.jpg https://www.orientrelogios.com.br/picts/uploads/zoom/MBS
 MBSS1550-P1SX/01-v2.jpg https://www.orientrelogios.com.br/picts/uploads/zoom/MBSS1550-P1SX.jpg#ampliar
 MPSC1020-E2NB/01-v2.jpg https://www.orientrelogios.com.br/picts/uploads/zoom/MPSC1020-E2NB.jpg#ampliar
 MPSC1021-P1PB/01-v2.jpg https://www.orientrelogios.com.br/picts/uploads/zoom/MPSC1021-P1PB.jpg#ampliar
+TW2Y05800/01.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_ad49b23d-70a4-4bbb-9561-63616e53558c.png
+TW2Y05800/02.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_M.jpg
+TW2Y05800/03.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_J_b3ea39fd-e158-4466-a042-f8bbba4bf43f.jpg
+TW2Y05800/04.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_B_8f9667aa-cb22-44b9-93cb-1ab6df8f8e84.png
+TW2Y05800/05.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_C_b567fc8d-9939-42ca-94bf-6d8a51b52b6d.png
+TW2Y05800/06.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_E_7a4fe4b8-2284-4592-b9bb-55002253d726.png
+TW2Y05800/07.jpg https://cdn.shopify.com/s/files/1/0573/1198/5747/files/TW2Y05800_D_402df891-8ac6-4739-958a-6b90c5b101af.png
