@@ -45,7 +45,8 @@ jobs:
                       im = fundo
                   else:
                       im = im.convert('RGB')
-                  im.thumbnail((1600, 1600), Image.LANCZOS)
+                  esc = min(1600 / im.width, 1600 / im.height)
+                  im = im.resize((round(im.width * esc), round(im.height * esc)), Image.LANCZOS)
                   tela = Image.new('RGB', (1600, 1600), (255, 255, 255))
                   tela.paste(im, ((1600 - im.width) // 2, (1600 - im.height) // 2))
                   q = 92
