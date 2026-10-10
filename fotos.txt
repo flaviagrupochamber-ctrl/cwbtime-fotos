@@ -257,3 +257,6 @@ MOPC21JALU-8V/03.jpg https://cdn.awsli.com.br/2500x2500/692/692123/produto/40438
 MOPC21JALV-8M/01.jpg https://cdn.awsli.com.br/2500x2500/692/692123/produto/404382760/371e5e8e674f45b98f6238497065be53-umbobtvfve.jpg
 MOPC21JALV-8M/02.jpg https://cdn.awsli.com.br/2500x2500/692/692123/produto/404382760/76aafde042c24d339c588c01d771d4a5-e1jz1sqtu5.jpg
 MOPC21JALV-8M/03.jpg https://cdn.awsli.com.br/2500x2500/692/692123/produto/404382760/17e6c6f34eaf41468029d7e3b22347c7-vny56vb24k.jpg
+MO2317AZ-2A/01.jpg https://static.netshoes.com.br/produtos/x/64/SI3-01O2-064/SI3-01O2-064_zoom1.jpg
+MO2317BA-2V/01.jpg https://static.netshoes.com.br/produtos/x/10/SI3-01NP-010/SI3-01NP-010_zoom1.jpg
+MO2317BB-2N/01.jpg https://static.netshoes.com.br/produtos/x/64/SI3-01NX-064/SI3-01NX-064_zoom1.jpg
