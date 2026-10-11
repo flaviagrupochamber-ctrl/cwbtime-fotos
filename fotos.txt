@@ -263,3 +263,9 @@ MO2317BB-2N/01.jpg https://static.netshoes.com.br/produtos/x/64/SI3-01NX-064/SI3
 MOPC21JALL-8Y/01.jpg https://a-static.mlcdn.com.br/1500x1500/relogio-mormaii-masculino-casual-preto-mopc21jall-8y/timecentertechnosoficial/1000029200/528fd259a4908e8bcae7d6be006058d5.jpeg
 MOPC21JALL-8Y/02.jpg https://a-static.mlcdn.com.br/1500x1500/relogio-mormaii-masculino-casual-preto-mopc21jall-8y/timecentertechnosoficial/1000029200/ad86846d36f5821701d3be1caa75874d.jpeg
 MOPC21JALL-8Y/03.jpg https://a-static.mlcdn.com.br/1500x1500/relogio-mormaii-masculino-casual-preto-mopc21jall-8y/timecentertechnosoficial/1000029200/89eacfdd79d7a7f38c77bfde2b8f1946.jpeg
+SP-5190-01/01.jpg https://images.tcdn.com.br/img/img_prod/668098/relgio_spinnaker_fleuss_pedro_lvares_cabral_sp_519_1_20260922102506_fd762d4f5e8a.jpg
+SP-5190-01/02.jpg https://images.tcdn.com.br/img/img_prod/668098/relgio_spinnaker_fleuss_pedro_lvares_cabral_sp_519_2_20260922102506_c348302b4879.jpg
+SP-5190-01/03.jpg https://images.tcdn.com.br/img/img_prod/668098/relgio_spinnaker_fleuss_pedro_lvares_cabral_sp_519_3_20260922102506_480fb8e06009.jpg
+SP-5190-01/04.jpg https://images.tcdn.com.br/img/img_prod/668098/relgio_spinnaker_fleuss_pedro_lvares_cabral_sp_519_4_20260922102506_8842e970a36e.jpg
+SP-5190-01/05.jpg https://images.tcdn.com.br/img/img_prod/668098/relgio_spinnaker_fleuss_pedro_lvares_cabral_sp_519_5_20260922102506_a44ce03cb3a1.jpg
+GR12AA-1A/01.jpg https://www.safira.com.br/cdn/imagens/produtos/original/relogio-masculino-technos-heritage-gr12aa1a-7c936db45942b270c8f19da910b540b4.jpg
