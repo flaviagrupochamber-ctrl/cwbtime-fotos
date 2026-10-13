@@ -294,3 +294,10 @@ MOPC21JBB-6P/03.jpg https://dcdn-us.mitiendanube.com/stores/007/993/618/products
 23767G0SVNC2/02.jpg https://seculusdigital.vtexassets.com/arquivos/ids/177399/23767G0SVNC2_3.jpg
 23767G0SVNC2/03.jpg https://seculusdigital.vtexassets.com/arquivos/ids/177400/23767G0SVNC2_4.jpg
 23767G0SVNC2/04.jpg https://seculusdigital.vtexassets.com/arquivos/ids/177623/1300003878_%20-1-.jpg
+GW1092L2/01.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2.png
+GW1092L2/02.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2_H.jpg
+GW1092L2/03.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2_Q.png
+GW1092L2/04.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2_P.png
+GW1092L2/05.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2_E.png
+GW1092L2/06.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/GW1092L2_B.png
+GW1092L2/07.jpg https://cdn.shopify.com/s/files/1/0581/4793/0155/files/pkg_guess_677788a2-7670-4c4f-8e7e-d53a95ef8bf2.png
