@@ -342,3 +342,17 @@ VX00BF-1K/01.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_
 VX00BF-1K/02.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bf1k_2_20261013142930_85b668e1a21d.jpg
 VX00BG-1P/01.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bg1p_1_20261013145616_6beacdf316c4.jpg
 VX00BG-1P/02.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bg1p_2_20261013145616_fdc470afc7ca.jpg
+2117LGE-0R/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/2117LGE0R_1.jpg
+2117LGF-1A/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/2117LGF1A_1.jpg
+2315LBW-1A/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/2315LBW1A_1.jpg
+2315LBW-1P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/2315LBW1P_1.jpg
+2315LBX-1F/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/2315LBX1F_1.jpg
+8205QH-2A/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/8205QH2A_1.jpg
+8205QI-1Y/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/8205QI1Y_1.jpg
+GM17AE-0B/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/GM17AE0B_1.jpg
+GM17AF-1A/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/GM17AF1A_1.jpg
+GM17AF-1B/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/GM17AF1B_1.jpg
+GM17AH-0A/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/GM17AH0A_1.jpg
+JS15EON-1P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/JS15EON1P_1.jpg
+JS15EOO-1P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/JS15EOO1P_1.jpg
+JS15EOP-1P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf1282025/JS15EOP1P_1.jpg
