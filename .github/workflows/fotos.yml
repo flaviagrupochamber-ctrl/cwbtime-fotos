@@ -45,6 +45,9 @@ jobs:
                       im = fundo
                   else:
                       im = im.convert('RGB')
+                  if '#recortar' in url:
+                      l = min(im.width, im.height)
+                      im = im.crop(((im.width - l) // 2, (im.height - l) // 2, (im.width - l) // 2 + l, (im.height - l) // 2 + l))
                   esc = min(1600 / im.width, 1600 / im.height)
                   im = im.resize((round(im.width * esc), round(im.height * esc)), Image.LANCZOS)
                   tela = Image.new('RGB', (1600, 1600), (255, 255, 255))
