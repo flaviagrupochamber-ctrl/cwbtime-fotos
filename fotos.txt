@@ -338,3 +338,7 @@ EUPC11AAA-K5K/03.jpg https://timecenter.vtexassets.com/arquivos/ids/235954/EUPC1
 EUPC11AAB-K5D/01.jpg https://timecenter.vtexassets.com/arquivos/ids/235789/EUPC11AABK5D_1.jpg
 EUPC11AAB-K5D/02.jpg https://timecenter.vtexassets.com/arquivos/ids/235951/EUPC11AABK5D_2.jpg
 EUPC11AAB-K5D/03.jpg https://timecenter.vtexassets.com/arquivos/ids/235952/EUPC11AABK5D_3.jpg
+VX00BF-1K/01.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bf1k_1_20261013142930_8e29e34ab02b.jpg
+VX00BF-1K/02.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bf1k_2_20261013142930_85b668e1a21d.jpg
+VX00BG-1P/01.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bg1p_1_20261013145616_6beacdf316c4.jpg
+VX00BG-1P/02.jpg https://images.tcdn.com.br/img/img_prod/1168760/relgio_technos_elegance_bracelete_vx00bg1p_2_20261013145616_fdc470afc7ca.jpg
