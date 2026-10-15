@@ -406,3 +406,7 @@ JS15EOP-1P/02.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbt
 77333LPSVFB9/03.jpg https://seculusdigital.vtexassets.com/arquivos/ids/176662/Relogios_Seculus_1000x1000_77333LPSVFB9_3.jpg
 77333LPSVFB9/04.jpg https://seculusdigital.vtexassets.com/arquivos/ids/176663/Relogios_Seculus_1000x1000_77333LPSVFB9_4.jpg
 77333LPSVFB9/05.jpg https://seculusdigital.vtexassets.com/arquivos/ids/176664/Caixa%20Seculus.jpg
+MOPC21JBA-6V/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/MOPC21JBA6V-01.jpg
+MOPC21JALX-8B/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/MOPC21JALX8B-01.jpg
+MOPC21JALW-8M/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/MOPC21JALW8M-01.jpg
+EU2035ZFA-3P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/EU2035ZFA3P-01.jpg
