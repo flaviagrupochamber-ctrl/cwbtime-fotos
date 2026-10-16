@@ -410,3 +410,7 @@ MOPC21JBA-6V/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cw
 MOPC21JALX-8B/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/MOPC21JALX8B-01.jpg
 MOPC21JALW-8M/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/MOPC21JALW8M-01.jpg
 EU2035ZFA-3P/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/EU2035ZFA3P-01.jpg
+CASE-TRAVEL-CWB/01.jpg https://images.tcdn.com.br/img/img_prod/848744/case_travel_cwb_time_1_20261016172334_b2efaeb14cdc.jpeg
+CASE-TRAVEL-CWB/02.jpg https://images.tcdn.com.br/img/img_prod/848744/case_travel_cwb_time_3_20261016172334_99d2096e5a95.jpeg
+CASE-TRAVEL-CWB/03.jpg https://images.tcdn.com.br/img/img_prod/848744/case_travel_cwb_time_4_20261016172334_dbc5092f40dd.jpeg
+CASE-TRAVEL-CWB/04.jpg https://images.tcdn.com.br/img/img_prod/848744/case_travel_cwb_time_2_20261016172334_32ff3645953c.png
