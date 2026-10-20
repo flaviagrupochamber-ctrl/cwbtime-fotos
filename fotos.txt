@@ -429,3 +429,15 @@ MTG-B4000B-1A2DR/05.jpg https://www.casio.com/content/dam/casio/product-info/loc
 MTG-B4000B-1A2DR/06.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/M/MT/MTG/mtg-b4000b-1a2/assets/MTG-B4000_detail_4.jpg#recortar
 MTG-B4000B-1A2DR/07.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/M/MT/MTG/mtg-b4000b-1a2/assets/MTG-B4000B-1A2_theme04.jpg
 MTG-B4000B-1A2DR/08.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/M/MT/MTG/mtg-b4000b-1a2/assets/MTG-B4000B-1A2_N.png
+F-91WS-2DF/01.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/F/F9/F91/F-91WS-2/assets/F-91WS-2.png
+F-91WS-2DF/02.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/F/F9/F91/F-91WS-2/assets/F-91WS-2_hand_square.jpg
+F-91WS-2DF/03.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/F/F9/F91/F-91WS-2/assets/F-91WS-2_square.jpg
+F-91WS-2DF/04.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/F/F9/F91/F-91WS-2/assets/F-91WS_square.jpg
+GA-B2100-3ADR/01.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A.png
+GA-B2100-3ADR/02.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_front.jpg
+GA-B2100-3ADR/03.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_04.jpg
+GA-B2100-3ADR/04.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_03.jpg
+GA-B2100-3ADR/05.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_07.jpg
+GA-B2100-3ADR/06.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_N.png
+GA-B2100-3ADR/07.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_06.jpg
+GA-B2100-3ADR/08.jpg https://www.casio.com/content/dam/casio/product-info/locales/br/pt-br/timepiece/product/watch/G/GA/gab/ga-b2100-3a/assets/GA-B2100-3A_05.jpg
