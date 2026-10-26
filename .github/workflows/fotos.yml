@@ -13,13 +13,40 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install pillow requests
+      - run: pip install pillow requests numpy scipy
       - name: Baixar, redimensionar e comprimir
         shell: python
         run: |
           import io, os, requests
           from PIL import Image
           LIM = 340000
+          import numpy as np
+          from scipy import ndimage as nd
+          def fundo_branco(im, tol=14):
+              # troca por branco só o fundo liso: cor dominante clara, ligada à borda da foto
+              # ou em áreas fechadas grandes e uniformes (ex.: vão dentro da pulseira)
+              a = np.asarray(im.convert('RGB')).astype(np.int16)
+              g = a.mean(2); sat = a.max(2) - a.min(2)
+              claro = (g > 180) & (sat < 20)
+              if claro.sum() == 0:
+                  return im
+              bg = np.bincount(np.round(g[claro]).astype(int)).argmax()
+              cand = (np.abs(g - bg) <= tol) & (sat < 20)
+              lab, n = nd.label(cand)
+              manter = set(np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]]))) - {0}
+              for l in range(1, n + 1):
+                  if l in manter:
+                      continue
+                  mm = lab == l
+                  if mm.sum() > 3000 and g[mm].std() < 2.5 and abs(g[mm].mean() - bg) < 3:
+                      manter.add(l)
+              m = np.isin(lab, list(manter))
+              dist = nd.distance_transform_edt(~m)
+              borda = (dist > 0) & (dist <= 2)
+              out = a.astype(float); out[m] = 255
+              w = np.clip((g[borda] - (bg - tol * 3)) / (tol * 3), 0, 1)[:, None]
+              out[borda] = out[borda] + (255 - out[borda]) * w * 0.6
+              return Image.fromarray(np.clip(out, 0, 255).astype(np.uint8))
           H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
           import json, glob
           erros = []
@@ -45,6 +72,8 @@ jobs:
                       im = fundo
                   else:
                       im = im.convert('RGB')
+                  if '#fundobranco' in url:
+                      im = fundo_branco(im)
                   if '#recortar' in url:
                       l = min(im.width, im.height)
                       im = im.crop(((im.width - l) // 2, (im.height - l) // 2, (im.width - l) // 2 + l, (im.height - l) // 2 + l))
