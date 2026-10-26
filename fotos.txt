@@ -908,10 +908,10 @@ GW0468L7/02.jpg https://cdn.shopify.com/s/files/1/0046/3454/2129/files/178634324
 GW0468L7/03.jpg https://cdn.shopify.com/s/files/1/0046/3454/2129/files/1786343242493-2969b5c4804e4977-06F75294BC35C487611874D38A3F2764.jpg
 GW0468L7/04.jpg https://cdn.shopify.com/s/files/1/0046/3454/2129/files/1786343242500-2969b5c4804e4977-587B3813F558FFB520A1AD430B66706D.jpg
 GW0468L7/05.jpg https://cdn.shopify.com/s/files/1/0046/3454/2129/files/1786343242521-2969b5c4804e4977-52A2CA0CD74289B3F712B5EA2FBFA35D.jpg
-GW1122G3/01.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_Q.jpg
-GW1122G3/02.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3.jpg
-GW1122G3/03.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_P.jpg
-GW1122G3/04.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_B.jpg
-GW1122G3/05.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_E.jpg
+GW1122G3/01.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_Q.jpg#recortar
+GW1122G3/02.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3.jpg#recortar
+GW1122G3/03.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_P.jpg#recortar
+GW1122G3/04.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_B.jpg#recortar
+GW1122G3/05.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_E.jpg#recortar
 TW2Y87100/01.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-tw2y87100_01-364de950-oxadb3zsnl.png
 TW2Y87100/02.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-tw2y87100_02-e4792502-ckqwfuvldw.png
