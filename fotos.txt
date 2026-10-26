@@ -913,5 +913,10 @@ GW1122G3/02.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3.
 GW1122G3/03.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_P.jpg#recortar
 GW1122G3/04.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_B.jpg#recortar
 GW1122G3/05.jpg https://cdn.shopify.com/s/files/1/0274/5620/8968/files/GW1122G3_E.jpg#recortar
-TW2Y87100/01.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-tw2y87100_01-364de950-oxadb3zsnl.png
+TW2Y87100/01.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-1-8ed266b0-5mf9jhv7xa.png
 TW2Y87100/02.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-tw2y87100_02-e4792502-ckqwfuvldw.png
+TW2Y87100/03.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-tw2y87100_01-364de950-oxadb3zsnl.png
+TW2Y87100/04.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-1-co-pia-3-903cbf14-yvmohuywoi.png
+TW2Y87100/05.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-1-co-pia-d202839d-pbuwvv0bvv.png
+TW2Y87100/06.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-1-co-pia-4-f1fac5fe-8y9sfy0n5h.png
+TW2Y87100/07.jpg https://cdn.awsli.com.br/2500x2500/568/568258/produto/404467885/relojoaria_impala_-1-co-pia-2-baad242b-y8r90d9s3g.png
