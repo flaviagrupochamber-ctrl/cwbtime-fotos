@@ -1374,3 +1374,6 @@ NH34AD-1V/04.jpg https://technos.vtexassets.com/arquivos/ids/236764/NH34AD1V_3.j
 77375G0SVNA5/02.jpg https://seculusft.vtexassets.com/arquivos/ids/178139/77375G0SVNA5_3.jpg
 77375G0SVNA5/03.jpg https://seculusft.vtexassets.com/arquivos/ids/178140/77375G0SVNA5_4.jpg
 77375G0SVNA5/04.jpg https://seculusft.vtexassets.com/arquivos/ids/178141/1300003875_.jpg
+WTB1300XBMIA/01.jpg https://cdn.shopify.com/s/files/1/0996/7373/5482/files/WTB13XBMI_0_7_NBA_Team_Tribute_MIAMI_Heat_Official_MA_BL_png_miamiHeat_01.png
+WTB1300XBMIA/02.jpg https://cdn.shopify.com/s/files/1/0996/7373/5482/files/WTB13XBMI_6_7_NBA_Team_Tribute_MIAMI_Heat_Official_MA_BL_png_miamiHeat_02.png
+WTB1300XBMIA/03.jpg https://images.tcdn.com.br/img/img_prod/848744/bola_de_basquete_wilson_nba_team_tribute_miami_heat_1587_1_89bbf6f4e79f6da8e0dd69a93b1839a0.jpg
