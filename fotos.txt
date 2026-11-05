@@ -1488,3 +1488,12 @@ CASE-TRAVEL-CWB/T05.jpg https://images.tcdn.com.br/img/img_prod/848744/porta_rel
 GW1122G3/T06.jpg https://images.tcdn.com.br/img/img_prod/848744/relogio_guess_blake_multifuncao_gw1122g3_44mm_6235_6_6a3e1fa8be2859a6872f431761f3ee8e.png
 MTP-M305D-1AVDF/T02.jpg https://images.tcdn.com.br/img/img_prod/848744/relgio_casio_mtp_m305d_1avdf_fases_da_lua_azul_34m_2_20261028180948_f40e44265042.png
 MTP-M305D-7AVDF/T02.jpg https://images.tcdn.com.br/img/img_prod/848744/relgio_casio_mtp_m305d_7avdf_fases_da_lua_branco_3_2_20261028181002_55091fd7d68a.png
+32849G0MVNA3/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/32849G0MVNA3_1.jpg
+32849G0MVNA3/02.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/32849G0MVNA3_2.jpg
+32849G0MVNA3/03.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/32849G0MVNA3_3.jpg
+32849G0MVNA3/04.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/32849G0MVNA3_4.jpg
+32849G0MVNA3/05.jpg https://seculus.vteximg.com.br/arquivos/ids/254144/1300003873_.jpg
+33038G0MVNE6/01.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/33038G0MVNE6_1.jpg
+33038G0MVNE6/02.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/33038G0MVNE6_2.jpg
+33038G0MVNE6/03.jpg https://raw.githubusercontent.com/flaviagrupochamber-ctrl/cwbtime-fotos/main/_src/nf998827/33038G0MVNE6_3.jpg
+33038G0MVNE6/04.jpg https://seculus.vteximg.com.br/arquivos/ids/254051/1300003873_.jpg
