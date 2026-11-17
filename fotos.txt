@@ -1545,3 +1545,7 @@ SP-5195-11B/06.jpg https://cdn.shopify.com/s/files/1/0573/7569/files/SP-5195-11B
 SP-5195-11B/07.jpg https://cdn.shopify.com/s/files/1/0573/7569/files/SP-5195-11B-MS08-VAR15.jpg
 SP-5195-11B/08.jpg https://cdn.shopify.com/s/files/1/0573/7569/files/SP-5195-11B-MS01-VAR09.jpg
 SP-5195-11B/09.jpg https://cdn.shopify.com/s/files/1/0573/7569/files/SP-5195-11B-BOXSET.png
+32821L0MKNE3/01.jpg https://mondaineft.vtexassets.com/arquivos/ids/253816/32821L0MKNE3.jpg
+32821L0MKNE3/02.jpg https://mondaineft.vtexassets.com/arquivos/ids/253817/32821L0MKNE3_3.jpg
+32821L0MKNE3/03.jpg https://mondaineft.vtexassets.com/arquivos/ids/253818/32821L0MKNE3_4.jpg
+32821L0MKNE3/04.jpg https://mondaineft.vtexassets.com/arquivos/ids/253819/1300003873_.jpg
